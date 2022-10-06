@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="DemoTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2022-10-06T19:54:32" hostname="farad-HP" time="0.049">
+  <properties/>
+  <testcase name="TESt_isTriangle_Correct_inputs" classname="DemoTest" time="0.005"/>
+  <testcase name="TESt_isTriangle_Zero_inputs" classname="DemoTest" time="0.001"/>
+  <testcase name="TESt_isTriangle_negative_inputs" classname="DemoTest" time="0.001"/>
+  <testcase name="TESt_isTriangle_Incorrect_inputs" classname="DemoTest" time="0.0"/>
+  <testcase name="TEST_main_correct_inputs" classname="DemoTest" time="0.04"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
