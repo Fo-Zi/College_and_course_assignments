@@ -1,8 +1,8 @@
-# College and course assignments
+# Real Time Systems
 ## Summary
-Hi everyone! In this repo i will be updating some assignments i had to complete for some courses, both in college and coursera or LinkedIn. The topics will be:
-- Firmware and drivers (C and Assembly)
-- Linux (C and Bash)
-- Concurrent programming and IPC mecanisms (C)
-- Unit testing and TDD (Java only by now)
+Hi everyone! In this folder you'll find some of the assignments I've to complete in order to pass the course imparted by the EIT on Coursera. The tools and topics were:
+- Preemptive Scheduling theory.
+- Scheduling simulation using [SimSo](https://projects.laas.fr/simso/).
+- [FreeRTOS](https://www.freertos.org/) basics.
 
+#### Thanks for passing by!
