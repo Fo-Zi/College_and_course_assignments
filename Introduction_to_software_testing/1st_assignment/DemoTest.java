@@ -35,6 +35,7 @@ public class DemoTest {
         testOut.reset();
         return aux;
     }
+    
     @Test
     public void TESt_isTriangle_Correct_inputs(){
         //Correct input cases 
