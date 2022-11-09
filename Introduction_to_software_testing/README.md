@@ -1,8 +1,8 @@
 # Real Time Systems
 ## Summary
-Hi everyone! In this folder you'll find some of the assignments I've to complete in order to pass the course imparted by the EIT on Coursera. The tools and topics were:
-- Preemptive Scheduling theory.
-- Scheduling simulation using [SimSo](https://projects.laas.fr/simso/).
-- [FreeRTOS](https://www.freertos.org/) basics.
+Hi everyone! In this folder you'll find two of the assignments I did for the course "Introduction to Software Testing" dictated by Minessota University on Coursera. The topics involved are:
+- Unit tests
+- Testing
+- Code Coverage
 
 #### Thanks for passing by!
